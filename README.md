@@ -57,7 +57,7 @@ The boilerplate includes an example (displaying fake user data) from UI componen
 
 - [`App/Components`](App/Components): presentational components
 - [`App/Config`](App/Config): configuration of the application
-- [`App/Containers`](App/Containers): container components, i.e. the application's screens
+- [`App/Containers`](App/Screens): container components, i.e. the application's screens
 - [`App/Assets`](App/Assets): assets (image, audio files, ...) used by the application
 - [`App/Navigators`](App/Navigators): react navigation navigators 
 - [`App/Sagas`](App/Sagas): redux sagas
