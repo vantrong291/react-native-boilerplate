@@ -1,4 +1,4 @@
-package com.boilerplate;
+package com.wefx;
 
 import android.app.Application;
 
